@@ -7,4 +7,3 @@ DOCUMENT
 SCHOOL PUBLIC IP: 104.28.122.111 (DCSG_BYOD)
 SCHOLL PRV IP: 10.50.80.219 (DCSG_BYOD)
 DOCUMENT
-## i have to add savva and ethan or he will kill me
