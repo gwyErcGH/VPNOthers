@@ -16,7 +16,7 @@ Port = 443
 Protocol = SSTP
 
 # Encryption method
-Encryption = AES256
+Encryption = AES128-CBC
 
 # Authentication method: Certificate / Password / Mixed
 AuthMethod = Certificate
