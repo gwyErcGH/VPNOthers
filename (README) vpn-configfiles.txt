@@ -2,7 +2,7 @@
 # VPN Configuration File
 # Project: HomeVPN-2
 # Description: Secondary VPN server and certificate setup
-# Created on: (add your date)
+# Created on: (add date)
 # =========================================================
 
 [Server]
