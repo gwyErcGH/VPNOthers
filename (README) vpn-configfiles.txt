@@ -67,4 +67,4 @@ MaxClients = 10
 
 # Auto restart server if connection drops
 AutoRestart = true
-DOCUMENT
+DOCUMENT -GGH
