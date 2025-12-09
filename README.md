@@ -8,4 +8,4 @@ SCHOOL PUBLIC IP: 104.28.122.111 (DCSG_BYOD)
 SCHOLL PRV IP: 10.50.80.219 (DCSG_BYOD)
 DOCUMENT
 So this note is for some stuff:
-Update 1 I have to check if the VPN Creates and account 
+Update 1 I have to check if the VPN Creates and account on a Windows.
