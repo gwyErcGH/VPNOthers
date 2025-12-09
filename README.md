@@ -11,3 +11,4 @@ So this note is for some stuff:
 Update 1 I have to check if the VPN Creates and account on a Windows.
 BTW This uses SelfSignedCertificate, which means you have to create the certificate, with your preferred choices.
 WARNING This is a medium strong VPN that can be connected to overwrite ban controls and more.
+DOCUMENT
