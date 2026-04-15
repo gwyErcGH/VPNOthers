@@ -14,3 +14,5 @@ WARNING This is a medium strong VPN that can be connected to overwrite ban contr
 DOCUMENT
 DCSG CONTRACTORS Changed the wifi password so we can no longer use it.
 DOCUMENT
+Yeah uh i dont think we are continuing this
+DOCUMENT
